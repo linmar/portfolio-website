@@ -39,7 +39,7 @@ export const experiencesData = [
     title: "Murex Developer",
     location: "Berlin, Germany",
     description:
-      "I have worked at this client for several years, initially I was hired to build the technical infrastructure for the EWU/Y2K test center which mirrored all financial markets applications for this German bank. I was part of the team to select Murex MxG2000 v2.10 and was part of the core team to implement it. I have developed a universal interface system for trade and static data to connect Murex to Xetra, Eurex and a large number of inhouse systems.",
+      "Initially I was hired to build the technical infrastructure for the EWU/Y2K test-center which mirrored all financial markets applications for this German bank. Later, I was part of the team to select Murex MxG2000 v2.10 and was part of the core team to implement it. I have developed a universal interface system for all kinds of financial data to integrate with Murex (internal and external providers).",
     icon: React.createElement(CgWorkAlt),
     date: "1998 - 2004",
   },
