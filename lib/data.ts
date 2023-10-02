@@ -129,7 +129,7 @@ export const projectsData = [
   {
     title: "TradeDB",
     description:
-      "TradeDB is a high-performance, high-availability interface system to feed trade and static data from exchanges into Murex MxG2000.",
+      "TradeDB is a high-performance, high-availability interface system to feed trade and static data from exchanges into Murex MxG2000 and Mx.3.",
     tags: ["Perl", "Sybase", "Murfi", "MxML", "Solaris", "Unix"],
     imageUrl: perlCodeImg, //corpcommentImg,
   },
