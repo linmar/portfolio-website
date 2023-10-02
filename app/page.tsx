@@ -6,11 +6,17 @@ import Projects from "@/components/projects";
 import SectionDivider from "@/components/section-divider";
 import Skills from "@/components/skills";
 import UserProfile from "@/components/UserProfile";
+import { getKindeServerSession } from "@kinde-oss/kinde-auth-nextjs/server";
 
 export default function Home() {
+  const { getUser, isAuthenticated } = getKindeServerSession();
+  const user = await getUser();
+  const loggedIn = await isAuthenticated();
+
   return (
     <main className="flex flex-col items-center px-4">
-      <Intro />
+      loggedIn ?
+      <IntroLoggedIn /> : <Intro />
       <SectionDivider />
       <About />
       <Projects />
