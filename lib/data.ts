@@ -55,7 +55,7 @@ export const experiencesData = [
     title: "Murex MxML and Market Data Developer",
     location: "Paris, France and New York, USA",
     description:
-      "When joining Murex (vendor) in Paris I was taking care of one of the first Murex Mx.3 implementations for a large Dutch bank. As the only on-site resource I was the link between the on-location team and the vendor. After completion I worked on several other projects, mainly as an MxML and Market Data Developer.",
+      "When joining Murex (vendor) in Paris I was taking care of one of the first Murex Mx.3 implementations for a large Dutch bank. As the only permanent on-site resource I was the link between the on-location team of the integrator, the client and the vendor. After completion I worked on several other projects, mainly as an MxML and Market Data Developer.",
     icon: React.createElement(CgWorkAlt),
     date: "2005 - 2008",
   },
