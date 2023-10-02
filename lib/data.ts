@@ -111,7 +111,7 @@ export const experiencesData = [
     title: "Markets, Wealth and Corporate Lead",
     location: "Bangkok, Thailand",
     description:
-      "At this client I took on the responsibility of leading four diverse DevOps Squads, each focusing on a different aspect of the bank's technological landscape. These teams included: Financial Markets - Murex MX.3, Market Risk IT, ETL/BI - DataStage and Cyber Crime / AML / Online Fraud / AWS Cloud Migration.",
+      "At this bank I took on the responsibility of leading four diverse DevOps Squads, each focusing on a different aspect of the bank's technological landscape. These teams included: Financial Markets - Murex MX.3, Market Risk IT, ETL/BI - DataStage and Cyber Crime / AML / Online Fraud / AWS Cloud Migration.",
     icon: React.createElement(CgWorkAlt),
     date: "2020 - 2023",
   },
