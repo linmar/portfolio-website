@@ -19,7 +19,7 @@ export default function About() {
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
         With over two decades of extensive experience in the <span className="font-medium">global financial industry</span>, I have had the privilege of working with numerous major banks and financial
-        institutions across the world. My journey began in 1998, and since then, I have held positions at BGB, HBOS, ABN, RBC, SAC, BEAR, CS, ING, SEB, TALANX, NBC, and UOB.
+        institutions across the world.
       </p>
       <p className="mb-3">
         My professional background has enabled me to serve Murex customers, including banks, hedge funds, asset managers, and insurance companies. I have also provided my expertise to consulting firms
