@@ -22,10 +22,9 @@ export default function About() {
         institutions across the world.
       </p>
       <p className="mb-3">
-        My professional background has enabled me to serve Murex customers, including banks, hedge funds, asset managers, and insurance companies. I have also provided my expertise to consulting firms
-        such as Accenture and Exclian/Luxoft. Over the years, I have taken on a variety of roles, including System Architecture, Design and <span className="font-medium">Environment Management</span>,
-        Marketdata, Integration, Architect, EOD Refactoring, Datacenter Move, Cloud Migration, Support, <span className="font-medium">Tech Lead</span>, Scrum Master, Product Owner, Application Owner,
-        and Support Manager.
+        My professional background has enabled me to serve Murex customers, including banks, hedge funds, asset managers, and insurance companies. I have also provided my expertise to consulting
+        firms. Over the years, I have taken on a variety of roles, including System Architecture, Design and <span className="font-medium">Environment Management</span>, Marketdata, Integration,
+        Architect, EOD Refactoring, Datacenter Move, Cloud Migration, Support, <span className="font-medium">Tech Lead</span>, Scrum Master, Product Owner, Application Owner, and Support Manager.
       </p>
       <p className="mb-3">
         As a testament to my commitment to the Murex community, I founded the <span className="font-medium">Murex User Group</span>, which has grown into a thriving network of over 3,800 Murex
