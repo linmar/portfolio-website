@@ -63,7 +63,7 @@ export const experiencesData = [
     title: "Murex Developer",
     location: "Zürich, Switzerland",
     description:
-      "This was with the same team, which implemented Murex Mx.3 for the Dutch bank. I was hired to build some of the needed MxML interfaces and ended up designing, implementing and rewriting all of them.",
+      "This was with the same team, which implemented Murex Mx.3 for the Dutch bank. I was hired to build some of the MxML interfaces and ended up designing, implementing and rewriting all of them.",
     icon: React.createElement(CgWorkAlt),
     date: "2008 - 2010",
   },
@@ -71,7 +71,7 @@ export const experiencesData = [
     title: "Murex Technical Lead",
     location: "Amsterdam, Netherlands",
     description:
-      "Intially I was implementing new MxML-interfaces but then was asked to be the technical lead for the move of the Mx.3 application from the datacenter in Singapore to Amsterdam. Part of this was a lot of refactoring, including a full rewrite of the EOD processes. After successfully completing this I became technical lead and moved from Development to Support.",
+      "Intially I was implementing new MxML-interfaces but then was asked to be the technical lead for the move of the Mx.3 application from the datacenter in Singapore to Amsterdam. Part of this was a lot of refactoring, including a full rewrite of the EOD processes. After successfully completing this I became technical lead for the team and moved from Development to Support.",
     icon: React.createElement(CgWorkAlt),
     date: "2010 - 2015",
   },
@@ -130,14 +130,14 @@ export const projectsData = [
     title: "TradeDB",
     description:
       "TradeDB is a high-performance, high-availability interface system to feed trade and static data from exchanges into Murex MxG2000 and Mx.3.",
-    tags: ["Perl", "Sybase", "Murfi", "MxML", "Solaris", "Unix"],
+    tags: ["Perl", "Sybase", "Murfi", "MxML", "Solaris", "Unix", "MxG2000", "Mx.3"],
     imageUrl: perlCodeImg, //corpcommentImg,
   },
   {
     title: "MxENV",
     description:
       "System to easily manage and monitor Murex Mx.3 systems.",
-    tags: ["Perl", "RHEL", "XmlRequestScript", "Automation", "Jenkins"],
+    tags: ["Perl", "RHEL", "XmlRequestScript", "Automation", "Jenkins", "MxG2000", "Mx.3", "CI/CD"],
     imageUrl: perlCodeImg, //rmtdevImg,
   },
 ] as const;
@@ -154,6 +154,7 @@ export const skillsData = [
   "MPC",
   "HPC",
   "Grid Computing",
+  "Leadership",
   "Agile Scrum",
   "DevOps",
   "CI/CD",
