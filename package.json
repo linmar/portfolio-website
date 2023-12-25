@@ -24,7 +24,7 @@
     "mixpanel": "^0.18.0",
     "mixpanel-browser": "^2.48.1",
     "next": "13.5.1",
-    "postcss": "8.4.31",
+    "postcss": "8.4.32",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-email": "^1.9.5",
