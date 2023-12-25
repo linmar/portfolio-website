@@ -38,6 +38,7 @@
     "v": "^0.3.0"
   },
   "devDependencies": {
+    "@types/mixpanel-browser": "^2.48.0",
     "@types/react-vertical-timeline-component": "^3.3.3"
   }
 }
