@@ -140,6 +140,13 @@ export const projectsData = [
     tags: ["Perl", "RHEL", "XmlRequestScript", "Automation", "Jenkins", "MxG2000", "Mx.3", "CI/CD"],
     imageUrl: perlCodeImg, //rmtdevImg,
   },
+  {
+    title: "ExpatEstates",
+    description:
+      "Real Estate SaaS for Real Estate Agents. AI powered portfolio listings and SEO.",
+    tags: ["Real Estate", "SaaS", "NextJS", "Supabase", "ShadCN", "Tailwind", "Full Stack", "CI/CD"],
+    imageUrl: perlCodeImg, //rmtdevImg,
+  },
 ] as const;
 
 export const skillsData = [
