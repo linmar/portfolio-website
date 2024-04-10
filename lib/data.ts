@@ -121,7 +121,7 @@ export const experiencesData = [
     description:
       "In my role at this bank, I am involved in a range of cloud initiatives aimed at enhancing our bank's technology infrastructure. My journey began with a project focused on improving the high-performance computing (MPC/HPC) setup. A significant part of my role involves participating in the team responsible for transitioning parts of the Murex production system to AWS cloud. This important migration leverages a fully automated DevOps approach, utilizing tools such as CloudFormation, Jenkins, and Jira. Additionally, I'm contributing to the evolution of our setup through database virtualization technologies and enhancing security measures.",
     icon: React.createElement(CgWorkAlt),
-    date: "since 2023",
+    date: "2023 - present",
   },
 ] as const;
 
