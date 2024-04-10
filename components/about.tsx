@@ -36,8 +36,8 @@ export default function About() {
 
       <p>
         <span className="italic">When I'm not working</span>, I enjoy travelling, watching movies, and programming. I also enjoy <span className="font-medium">learning new things</span>. I am
-        currently expanding my skills in advanced AI technologies such as ChatGPT, LangChain, and OLlama, with a focus on practical application in software development projects. My work involves
-        integrating these AI tools to enhance functionality and efficiency. I am also interested in Full Stack Development, using NextJS, Supabase and Shad/CN as well as backend development in Golang.
+        currently expanding my skills in advanced AI technologies such as ChatGPT, LangChain, and OLlama, with a focus on practical application in software development projects. I am also interested
+        in Full Stack Development, using NextJS, Supabase and Shad/CN as well as backend development in Golang.
       </p>
     </motion.section>
   );
