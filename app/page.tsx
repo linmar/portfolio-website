@@ -8,6 +8,7 @@ import SectionDivider from "@/components/section-divider";
 import Skills from "@/components/skills";
 import UserProfile from "@/components/UserProfile";
 import { getKindeServerSession } from "@kinde-oss/kinde-auth-nextjs/server";
+import Script from "next/script";
 
 export default async function Home() {
   const { getUser, isAuthenticated } = getKindeServerSession();
@@ -23,8 +24,8 @@ export default async function Home() {
       <Skills />
       <Experience />
       <Contact />
-      <UserProfile />
-      <script async data-uid="209b46694a" src="https://markuslinke.ck.page/209b46694a/index.js"></script>
+      {/* <UserProfile /> */}
+      {/* <Script id="c1" type="text/javascript" src="//mau.estatengine.io/form/generate.js?id=1"></Script> */}
     </main>
   );
 }
